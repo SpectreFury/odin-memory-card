@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/odin-memory-card/static/css/main.126f54cc.css",
+    "main.js": "/odin-memory-card/static/js/main.ed433611.js",
+    "static/media/capybara.jpg": "/odin-memory-card/static/media/capybara.1979ac6f1e6e3fc1fee2.jpg",
+    "static/media/trade-offer.jpg": "/odin-memory-card/static/media/trade-offer.0ddc1b3f07ec4ccd7cc7.jpg",
+    "static/media/joker.jpg": "/odin-memory-card/static/media/joker.d736db015521260f7e02.jpg",
+    "static/media/hank.jpg": "/odin-memory-card/static/media/hank.3a9888ca09a0aaa0858f.jpg",
+    "static/media/mike.jpg": "/odin-memory-card/static/media/mike.859e5375534a9b3eff02.jpg",
+    "static/media/terrified-pingu.jpg": "/odin-memory-card/static/media/terrified-pingu.799ca75b469e7e4f2e70.jpg",
+    "static/media/invest.jpg": "/odin-memory-card/static/media/invest.1a9931471191d97905d3.jpg",
+    "static/media/elmo.jpg": "/odin-memory-card/static/media/elmo.6a513a7861bc139101a3.jpg",
+    "static/media/communism.jpg": "/odin-memory-card/static/media/communism.43183634fdc7353824c8.jpg",
+    "static/media/crying-cat.jpg": "/odin-memory-card/static/media/crying-cat.b78ea0e7545985e9e654.jpg",
+    "static/media/elon.jpg": "/odin-memory-card/static/media/elon.4b1c4b6bd758b49438df.jpg",
+    "index.html": "/odin-memory-card/index.html",
+    "main.126f54cc.css.map": "/odin-memory-card/static/css/main.126f54cc.css.map",
+    "main.ed433611.js.map": "/odin-memory-card/static/js/main.ed433611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126f54cc.css",
+    "static/js/main.ed433611.js"
+  ]
+}
