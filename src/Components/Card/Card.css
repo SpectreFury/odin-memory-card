@@ -1,0 +1,17 @@
+.card-container {
+  width: 280px;
+  background-color: #0e5e6f;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+.meme-image {
+  width: 100%;
+}
+
+.meme-title {
+  color: #f2deba;
+  font-size: 1.2rem;
+  text-align: center;
+}

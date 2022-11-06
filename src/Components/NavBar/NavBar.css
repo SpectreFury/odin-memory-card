@@ -1,0 +1,13 @@
+.navbar {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-title {
+  font-size: 4rem;
+  letter-spacing: 2px;
+}

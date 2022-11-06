@@ -1,0 +1,10 @@
+.score-container {
+  position: absolute;
+  top: 50%;
+  right: 10%;
+  transform: translate(-50%, -50%);
+  background-color: #0e5e6f;
+  padding: 20px;
+  border-radius: 8px;
+  color: #f2deba;
+}
